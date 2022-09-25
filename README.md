@@ -1,4 +1,8 @@
-Olá! seja bem-vindo ao meu humilde cantinho, me chamo Ewerton Hecsley 👋
+## Hi I'm Ewerton Hecsley <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+
+Technologist in Systems Analysis and Development and in constant learning. Evolve is the way.  <br/>
+
 
 - 🔭 Atualmente estou trabalhando na área comercial
 - 🌱 Estudando desenvolvimento Web
