@@ -7,6 +7,8 @@ Technologist in Systems Analysis and Development and in constant learning. Evolv
 - 🔭 I am currently working in the commercial area
 - 🌱 Studying web development
 
+God above all
+
 
 ##
 
