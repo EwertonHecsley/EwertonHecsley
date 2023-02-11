@@ -27,7 +27,7 @@ God above all
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonHecsley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonHecsley&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"; "margin-right: 10px"><br>
+<div style="display: inline_block"; padding: 10px "><br>
   <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -43,3 +43,4 @@ God above all
  
 </div>
 
+![21116158daaeb1459b4ec0758505e1ad](https://user-images.githubusercontent.com/114318366/218260732-397e3bfc-9bd9-4eb8-bf31-3428b29c349a.gif)
