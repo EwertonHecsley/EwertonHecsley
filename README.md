@@ -54,6 +54,9 @@ God above all
 <a href= https://github.com/?tab=repositories&q=&type=&language=reddit&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reddit.svg'> </a>
 </div>
 
+<br>
+<br>
+
 <div style="display: flex"; 
    <a href="https://github.com/EwertonHecsley">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonHecsley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
