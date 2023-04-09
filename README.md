@@ -57,11 +57,19 @@ God above all
 <br>
 <br>
 
-<div style="display: flex"; 
-   <a href="https://github.com/EwertonHecsley">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonHecsley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonHecsley&layout=compact&langs_count=7&theme=dark"/>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <a href="https://github.com/EwertonHecsley">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonHecsley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://github.com/EwertonHecsley">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonHecsley&layout=compact&langs_count=7&theme=dark"/>
+    </a>
+  </div>
 </div>
+
 
 
 
