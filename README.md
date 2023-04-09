@@ -4,7 +4,7 @@
 <div align="center">Technologist in Systems Analysis and Development and in constant learning. Evolve is the way.  <br/>
 
 
- 🔭 I am currently working in the commercial area
+ 🔭 I am currently working in the commercial area<br/>
  🌱 Studying web development
 
 God above all
