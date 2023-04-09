@@ -21,12 +21,16 @@ God above all
 
 <h1 align="center"> Top Technologies </h1>
 
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F&r" />
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
   <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
   <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" />
 </div>
+
+
 
 <br>
 <hr>
@@ -57,17 +61,16 @@ God above all
 <br>
 <br>
 
-<div style="display: flex;">
-  <div style="display: flex; max-width: 50%;">
-    <a href="https://github.com/EwertonHecsley">
-      <img height="180em" style="max-width: 100%; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=EwertonHecsley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/EwertonHecsley">
-      <img height="180em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonHecsley&layout=compact&langs_count=7&theme=dark"/>
-    </a>
-  </div>
+<div align="center"
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/EwertonHecsley">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonHecsley&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/EwertonHecsley">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonHecsley&layout=compact&langs_count=7&theme=dark" style="margin-left: 10px;"/>
+  </a>
 </div>
-
+</div>
 
 
 
