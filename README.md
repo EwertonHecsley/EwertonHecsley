@@ -4,15 +4,15 @@
 <div align="center">Technologist in Systems Analysis and Development and in constant learning. Evolve is the way.  <br/>
 
 
-- 🔭 I am currently working in the commercial area
-- 🌱 Studying web development
+ 🔭 I am currently working in the commercial area
+ 🌱 Studying web development
 
 God above all
 </div>
 
 ##
 
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/ewerton-hecsley-8a613992?trk" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
   <a href="https://instagram.com/ewerton_hecsley" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
 </div>   
