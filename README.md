@@ -17,6 +17,8 @@ God above all
   <a href="https://instagram.com/ewerton_hecsley" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
 </div>   
 
+<hr>
+
 <h1 align="center"> Top Technologies </h1>
 
 <div align="center">
