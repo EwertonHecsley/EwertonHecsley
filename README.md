@@ -15,8 +15,8 @@ God above all
 <h1 align="center"> Social Media </h1>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/ewerton-hecsley-8a613992?trk" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-  <a href="https://instagram.com/ewerton_hecsley" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/ewerton-hecsley-8a613992?trk" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <a href="https://instagram.com/ewerton_hecsley" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
 </div>   
 
 
