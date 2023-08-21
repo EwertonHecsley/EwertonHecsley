@@ -12,6 +12,8 @@ God above all
 
 ##
 
+<h1 align="center"> Social Media </h1>
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/ewerton-hecsley-8a613992?trk" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
   <a href="https://instagram.com/ewerton_hecsley" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
@@ -26,8 +28,9 @@ God above all
 <div align="center">
   <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F&r" />
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
+  <img src="https://img.shields.io/badge/-Angularjs-8B0000?style=for-the-badge&labelColor=black&logo=angularjs&logoColor=8B0000" /> 
   <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
-  <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" />
+  <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" /> 
 </div>
 
 
