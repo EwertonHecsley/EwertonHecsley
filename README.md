@@ -86,7 +86,3 @@ God above all
 
 
 ##
-
-
-
-![21116158daaeb1459b4ec0758505e1ad](https://user-images.githubusercontent.com/114318366/218260732-397e3bfc-9bd9-4eb8-bf31-3428b29c349a.gif)
