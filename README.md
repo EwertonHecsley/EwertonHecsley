@@ -1,5 +1,6 @@
 ## <h1 align="center">Hi I'm Ewerton Hecsley <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
+![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/EwertonHecsley/EwertonHecsley/assets/114318366/bbb1a3f0-196a-4bd1-881a-20058b48ba85)
 
 <div align="center">Technologist in Systems Analysis and Development and in constant learning. Evolve is the way.  <br/><br/>
 
