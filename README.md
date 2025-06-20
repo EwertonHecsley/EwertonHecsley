@@ -2,7 +2,7 @@
 
 ![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/EwertonHecsley/EwertonHecsley/assets/114318366/bbb1a3f0-196a-4bd1-881a-20058b48ba85)
 
-<div align="center">Enginer Software in EHM Labs Softwares.  <br/><br/>
+<div align="center">Software Engineer  in EHM Labs Softwares.  <br/><br/>
 
 
    🔧 Backend Developer with strong experience in Node.js, Java, C# and Python  
