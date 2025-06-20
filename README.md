@@ -2,13 +2,16 @@
 
 ![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/EwertonHecsley/EwertonHecsley/assets/114318366/bbb1a3f0-196a-4bd1-881a-20058b48ba85)
 
-<div align="center">Technologist in Systems Analysis and Development and in constant learning. Evolve is the way.  <br/><br/>
+<div align="center">Enginer Software in EHM Labs Softwares.  <br/><br/>
 
 
- 🔭 I am currently working in the commercial area<br/>
- 🌱 Studying web development
+   🔧 Backend Developer with strong experience in Node.js, Java, C# and Python  
+   🧠 Passionate about Clean Architecture, Domain-Driven Design (DDD), and Hexagonal Architecture  
+   🚀 Always learning and building useful, scalable, and well-structured systems  
+    
+   Currently exploring advanced backend patterns and distributed systems  
 
-God above all
+🙌 God above all
 </div>
 
 ##
