@@ -80,16 +80,4 @@
   </a>
 </div>
 </div>
-
-
-<div align="center">
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-</div>
-
 </br>
-
-<div align="center" width = '32px' height= '32px' <p> VISITORS </p> </div>
-
-<p align="center"> <img align="center" src="https://profile-counter.glitch.me/EwertonHecsley/count.svg" /> </p>
