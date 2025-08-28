@@ -1,6 +1,9 @@
 # 👋 Olá, eu sou Ewerton Hecsley
 
-💻 **Desenvolvedor Backend** focado em criar soluções escaláveis e robustas.  
+💻 **Desenvolvedor Backend** focado em criar soluções eficientes para o mundo real, unindo expertise técnica e uma abordagem proativa para resolver desafios.
+
+Com mais de 10 anos de experiência na área comercial, adquiri habilidades sólidas em negociações e liderança, que aplico no desenvolvimento de software para garantir um impacto positivo nos projetos. Essa bagagem me permite trazer uma visão abrangente, sempre alinhada aos objetivos do cliente e do negócio.
+
 📍 Patos, PB - Brasil | 📧 [ewerton.martinscomercial@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/ewerton-hecsley-8a613992/)
 
