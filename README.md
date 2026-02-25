@@ -10,7 +10,7 @@ Sou um profissional em transição estratégica da área comercial para tecnolog
 
 ---
 
-## 🎯 Proposta de Valor (para recrutadores)
+## 🎯 Proposta de Valor
 
 - Atuo no ciclo completo da aplicação (frontend + backend), com **especialidade em arquitetura backend**.
 - Transformo requisitos complexos em soluções claras, sustentáveis e orientadas a resultado.
