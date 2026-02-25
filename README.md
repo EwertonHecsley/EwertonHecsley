@@ -1,43 +1,63 @@
 # 👋 Olá, eu sou Ewerton Hecsley
 
-💻 **Desenvolvedor Backend** focado em criar soluções eficientes para o mundo real, unindo arquitetura, regras de negócio bem definidas e código limpo.
+💻 **Desenvolvedor Full Stack (React + Next.js) com foco em Backend**, construindo APIs robustas, integrações eficientes e aplicações orientadas a regras de negócio reais.
 
-Com mais de 10 anos de experiência na área comercial, desenvolvi forte visão de negócio, comunicação e tomada de decisão. Hoje aplico essa bagagem no desenvolvimento de software, criando APIs robustas, escaláveis e alinhadas a problemas reais do mercado.
+Sou um profissional em transição estratégica da área comercial para tecnologia, trazendo **mais de 10 anos de experiência em negócios, negociação e tomada de decisão** para o desenvolvimento de software. Isso me permite ir além do código e entregar soluções com impacto no produto e no cliente.
 
 📍 Patos, PB - Brasil  
-📧 ewerton.martinscomercial@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ewerton-hecsley-8a613992/
+📧 **ewerton.martinscomercial@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ewerton-hecsley-8a613992/  
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🎯 Proposta de Valor (para recrutadores)
+
+- Atuo no ciclo completo da aplicação (frontend + backend), com **especialidade em arquitetura backend**.
+- Transformo requisitos complexos em soluções claras, sustentáveis e orientadas a resultado.
+- Uno visão técnica + visão de negócio para priorizar entregas com impacto real.
+- Tenho foco em **arquitetura limpa, qualidade de código e evolução contínua**.
+
+---
+
+## 🚀 Stack Principal
 
 - **Linguagens:** JavaScript, TypeScript, Java, PHP, Python  
-- **Frameworks / Libs:** Node.js, NestJS, Express, Fastify, Spring Boot, Laravel  
+- **Frontend:** React, Next.js, HTML, CSS  
+- **Backend:** Node.js, NestJS, Express, Fastify, Spring Boot, Laravel  
 - **Banco de Dados:** PostgreSQL, MySQL, Oracle, MongoDB, Redis  
 - **Testes:** Jest, Mocha, Chai  
-- **DevOps & Cloud:** Docker, Azure, Google Cloud, CI/CD com GitHub Actions  
+- **DevOps & Cloud:** Docker, Azure, Google Cloud, GitHub Actions (CI/CD)  
 - **Mensageria & Integrações:** Kafka, RabbitMQ  
-- **Outros:** Git, Swagger, REST, GraphQL, ORMs
+- **Boas práticas:** DDD, Clean Architecture, Design Patterns, APIs REST, GraphQL, Swagger  
 
 ---
 
-## 🛠 Projetos Práticos
+## 🛠 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|-------|-----------|-------------|
-| 💳 **Digital Wallet API** | API de carteira digital com operações de depósito, saque, transferência e extrato financeiro. Projeto focado em **DDD, Clean Architecture e Design Patterns**, incluindo Strategy e Factory. Possui autenticação JWT, histórico de transações, rollback de operações e regras de negócio específicas por tipo de usuário. | NestJS, TypeScript, PostgreSQL, Drizzle ORM, Docker, JWT |
-| 📦 **Product Service API** | Microserviço para gestão de produtos seguindo DDD e Clean Architecture, com mensageria e testes unitários. | Node.js, TypeScript, Express, Prisma ORM, RabbitMQ, Jest |
-| 💰 **Financial Transactions API** | API REST para controle de transações financeiras com autenticação JWT, categorização e cálculo de saldo. | Node.js, TypeScript, Fastify, PostgreSQL, Prisma ORM, JWT |
-| 🩺 **MediAssist** | API que transforma descrições clínicas simples em laudos técnicos utilizando IA generativa. | Node.js, TypeScript, Fastify, PostgreSQL, Prisma ORM, Gemini API |
+| Projeto | Problema resolvido | Tecnologias |
+|---|---|---|
+| 💳 **Digital Wallet API** | Simulação de carteira digital com regras de negócio financeiras (depósito, saque, transferência, extrato e rollback). | NestJS, TypeScript, PostgreSQL, Drizzle ORM, Docker, JWT |
+| 📦 **Product Service API** | Microserviço de produtos com foco em arquitetura desacoplada, mensageria e testes unitários. | Node.js, TypeScript, Express, Prisma ORM, RabbitMQ, Jest |
+| 💰 **Financial Transactions API** | Gestão de transações financeiras com autenticação, categorização e cálculo de saldo. | Node.js, TypeScript, Fastify, PostgreSQL, Prisma ORM, JWT |
+| 🩺 **MediAssist** | Geração de laudos técnicos a partir de descrições clínicas usando IA generativa. | Node.js, TypeScript, Fastify, PostgreSQL, Prisma ORM, Gemini API |
+
+---
+
+## 🧠 Perfil Profissional
+
+Tenho especial interesse em:
+
+- Sistemas financeiros
+- Arquitetura de software e escalabilidade
+- Microserviços e mensageria
+- Aplicações full stack com frontend moderno e backend sólido
+
+Busco oportunidades como **Desenvolvedor Full Stack com foco em Backend**, contribuindo com projetos que exijam profundidade técnica, responsabilidade de negócio e mentalidade de crescimento.
 
 ---
 
-## 🧠 Sobre Mim
+## 📬 Vamos conversar?
 
-Sou movido por desafios técnicos e gosto de trabalhar com **modelagem de domínio, regras de negócio complexas e arquitetura bem definida**.  
-Tenho grande interesse em sistemas financeiros, microserviços, mensageria e padrões de projeto.
+Se você procura um profissional full stack com forte base backend e compromisso com entrega, será um prazer conversar.
 
-Atualmente focado em evoluir como **Backend Developer**, aprofundando conhecimentos em arquitetura, escalabilidade e boas práticas.
-
----
+**Contato direto:** ewerton.martinscomercial@gmail.com
