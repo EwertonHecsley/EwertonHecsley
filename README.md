@@ -1,63 +1,262 @@
-# 👋 Olá, eu sou Ewerton Hecsley
+<div align="center">
 
-💻 **Desenvolvedor Full Stack (React + Next.js) com foco em Backend**, construindo APIs robustas, integrações eficientes e aplicações orientadas a regras de negócio reais.
+# Ewerton Hecsley
 
-Sou um profissional em transição estratégica da área comercial para tecnologia, trazendo **mais de 10 anos de experiência em negócios, negociação e tomada de decisão** para o desenvolvimento de software. Isso me permite ir além do código e entregar soluções com impacto no produto e no cliente.
+### Backend Developer | Node.js • TypeScript • NestJS
 
-📍 Patos, PB - Brasil  
-📧 **ewerton.martinscomercial@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ewerton-hecsley-8a613992/  
+Construindo **APIs, sistemas backend e automações orientadas a problemas reais de negócio**.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-ewertontech.com.br-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.ewertontech.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ewerton%20Hecsley-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ewerton-hecsley-8a613992/)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ewerton.martinscomercial@gmail.com)
 
-## 🎯 Meus Valores
+**Patos, Paraíba — Brasil 🇧🇷**
 
-- Atuo no ciclo completo da aplicação (frontend + backend), com **especialidade em arquitetura backend**.
-- Transformo requisitos complexos em soluções claras, sustentáveis e orientadas a resultado.
-- Uno visão técnica + visão de negócio para priorizar entregas com impacto real.
-- Tenho foco em **arquitetura limpa, qualidade de código e evolução contínua**.
+</div>
 
 ---
 
-## 🚀 Stack Principal
+## 👨‍💻 Sobre mim
 
-- **Linguagens:** JavaScript, TypeScript, Java, PHP, Python  
-- **Frontend:** React, Next.js, HTML, CSS  
-- **Backend:** Node.js, NestJS, Express, Fastify, Spring Boot, Laravel  
-- **Banco de Dados:** PostgreSQL, MySQL, Oracle, MongoDB, Redis  
-- **Testes:** Jest, Mocha, Chai  
-- **DevOps & Cloud:** Docker, Azure, Google Cloud, GitHub Actions (CI/CD)  
-- **Mensageria & Integrações:** Kafka, RabbitMQ  
-- **Boas práticas:** DDD, Clean Architecture, Design Patterns, APIs REST, GraphQL, Swagger  
+Sou **Desenvolvedor Backend**, estudando e construindo software profissionalmente desde 2022, com foco principal no ecossistema **Node.js + TypeScript**.
 
----
+Antes da tecnologia, construí mais de **10 anos de experiência na área comercial**, atuando diretamente com negociação, relacionamento com clientes, tomada de decisão e entendimento de necessidades de negócio.
 
-## 🛠 Projetos em Destaque
+Hoje utilizo essa experiência como diferencial na engenharia de software: não penso apenas em **“como implementar uma feature”**, mas também em **qual problema ela resolve, quais regras de negócio existem e como construir uma solução sustentável**.
 
-| Projeto | Problema resolvido | Tecnologias |
-|---|---|---|
-| 💳 **Digital Wallet API** | Simulação de carteira digital com regras de negócio financeiras (depósito, saque, transferência, extrato e rollback). | NestJS, TypeScript, PostgreSQL, Drizzle ORM, Docker, JWT |
-| 📦 **Product Service API** | Microserviço de produtos com foco em arquitetura desacoplada, mensageria e testes unitários. | Node.js, TypeScript, Express, Prisma ORM, RabbitMQ, Jest |
-| 💰 **Financial Transactions API** | Gestão de transações financeiras com autenticação, categorização e cálculo de saldo. | Node.js, TypeScript, Fastify, PostgreSQL, Prisma ORM, JWT |
-| 🩺 **MediAssist** | Geração de laudos técnicos a partir de descrições clínicas usando IA generativa. | Node.js, TypeScript, Fastify, PostgreSQL, Prisma ORM, Gemini API |
+Atualmente estou cursando **Bacharelado em Engenharia de Software pela UNIUBE** e aprofundando meus conhecimentos em arquitetura, sistemas distribuídos, desenvolvimento backend e engenharia de software.
 
----
+### Atualmente focado em
 
-## 🧠 Perfil Profissional
-
-Tenho especial interesse em:
-
-- Sistemas financeiros
-- Arquitetura de software e escalabilidade
-- Microserviços e mensageria
-- Aplicações full stack com frontend moderno e backend sólido
-
-Busco oportunidades como **Desenvolvedor Full Stack com foco em Backend**, contribuindo com projetos que exijam profundidade técnica, responsabilidade de negócio e mentalidade de crescimento.
+* Backend com **Node.js, TypeScript e NestJS**
+* **Clean Architecture, DDD e SOLID**
+* Modelagem e implementação de **regras de negócio**
+* APIs REST e integração entre sistemas
+* **PostgreSQL, Redis e Prisma**
+* Sistemas distribuídos e **microsserviços**
+* Mensageria com **Kafka e RabbitMQ**
+* Docker e práticas de CI/CD
+* Automação de processos com **n8n e Make**
+* Integração de aplicações com **IA e LLMs**
 
 ---
 
-## 📬 Vamos conversar?
+## 🏗️ Como penso engenharia
 
-Se você procura um profissional full stack com forte base backend e compromisso com entrega, será um prazer conversar.
+Meu objetivo não é apenas escrever código que funciona.
 
-**Contato direto:** ewerton.martinscomercial@gmail.com
+Busco construir sistemas que sejam:
+
+```text
+Compreensíveis
+      ↓
+Testáveis
+      ↓
+Manuteníveis
+      ↓
+Observáveis
+      ↓
+Escaláveis
+```
+
+Tenho estudado e aplicado conceitos como:
+
+* **Domain-Driven Design (DDD)**
+* **Clean Architecture**
+* **SOLID**
+* **Design Patterns**
+* **Object Calisthenics**
+* **TDD**
+* **Event-Driven Architecture**
+* **Microservices**
+* **Repository Pattern**
+* **Value Objects**
+* **Use Cases**
+* **Domain Entities**
+* **Arquitetura Hexagonal**
+
+Também utilizo **ADRs (Architecture Decision Records)** para documentar decisões arquiteturais importantes em meus projetos.
+
+---
+
+## ⚙️ Stack principal
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,express,fastify" />
+</p>
+
+**Node.js · TypeScript · NestJS · Express · Fastify**
+
+### Databases & Storage
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+**PostgreSQL · MySQL · MongoDB · Redis · Prisma**
+
+### Distributed Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+</p>
+
+**Apache Kafka · RabbitMQ · Event-driven architecture**
+
+### Cloud, DevOps & CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,azure,gcp,githubactions,nginx" />
+</p>
+
+**Docker · Azure · Google Cloud · GitHub Actions · Nginx**
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css" />
+</p>
+
+**React · Next.js · Angular · HTML · CSS**
+
+### Testing
+
+**Jest · Mocha · Chai**
+
+### Automation & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**n8n · Make · LLM integrations · AI-powered workflows**
+
+---
+
+## 🚀 Projetos em destaque
+
+### 💳 Payments Platform
+
+Plataforma backend orientada a domínio para simular uma solução de pagamentos.
+
+**Principais conceitos:**
+
+`NestJS` `TypeScript` `PostgreSQL` `Redis` `Docker`
+
+`DDD` `Clean Architecture` `SOLID` `TDD`
+
+`Kafka/RabbitMQ` `Microservices`
+
+O projeto é utilizado como laboratório de **engenharia de software e arquitetura backend**, com decisões arquiteturais documentadas através de ADRs.
+
+---
+
+### 🛒 Marketplace Microservices
+
+Arquitetura baseada em microsserviços para um marketplace, explorando comunicação síncrona e assíncrona entre serviços.
+
+**Conceitos explorados:**
+
+`NestJS` `TypeScript` `PostgreSQL` `Prisma`
+
+`API Gateway` `Kafka` `Redis`
+
+`Circuit Breaker` `Microservices` `DDD`
+
+---
+
+### 💰 Financial Transactions API
+
+API backend voltada para operações financeiras e regras de negócio.
+
+**Stack:**
+
+`Fastify` `TypeScript` `PostgreSQL` `Prisma`
+
+**Arquitetura:**
+
+`DDD` `Clean Architecture` `SOLID`
+
+`Use Cases` `Repositories` `Value Objects` `Either Pattern`
+
+---
+
+### 🤖 Automação & Integrações
+
+Desenvolvimento de automações utilizando **n8n e Make**, conectando APIs, bancos de dados, serviços externos e modelos de IA.
+
+O foco é transformar processos manuais em **workflows automatizados, integrados e orientados a eventos**.
+
+---
+
+## 📚 Engenharia de Software
+
+Estou constantemente aprofundando conhecimentos em:
+
+| Área                    | Tecnologias / Conceitos                     |
+| ----------------------- | ------------------------------------------- |
+| **Backend**             | Node.js, TypeScript, NestJS, Fastify        |
+| **Arquitetura**         | DDD, Clean Architecture, Hexagonal          |
+| **Design**              | SOLID, Design Patterns, Object Calisthenics |
+| **Databases**           | PostgreSQL, MySQL, MongoDB, Redis           |
+| **Distributed Systems** | Kafka, RabbitMQ, Microservices              |
+| **Testing**             | Jest, TDD, Unit & Integration Testing       |
+| **DevOps**              | Docker, GitHub Actions, Azure               |
+| **APIs**                | REST, GraphQL, Swagger/OpenAPI              |
+| **Automation**          | n8n, Make, Webhooks, API Integrations       |
+| **AI**                  | LLM integrations, AI workflows              |
+
+---
+
+## 🎯 O que estou buscando
+
+Meu objetivo profissional é atuar como **Backend Developer / Software Engineer**, trabalhando na construção de produtos e sistemas onde eu possa contribuir tanto tecnicamente quanto na compreensão do problema de negócio.
+
+Tenho especial interesse por ambientes que valorizem:
+
+* Engenharia de software
+* Boas práticas de desenvolvimento
+* Arquitetura e design de sistemas
+* Código sustentável
+* Aprendizado contínuo
+* Trabalho em equipe
+* Problemas de negócio complexos
+
+**Especialmente oportunidades envolvendo Node.js, TypeScript e backend.**
+
+---
+
+## 🌐 Portfólio
+
+### [ewertontech.com.br](https://www.ewertontech.com.br/)
+
+Meu portfólio reúne projetos, estudos de caso, decisões arquiteturais e experimentos técnicos.
+
+> Código é importante.
+> **Entender o problema e construir a solução certa é ainda mais.**
+
+---
+
+## 🤝 Vamos conversar?
+
+Estou aberto a conexões, oportunidades profissionais, projetos e boas conversas sobre **backend, arquitetura e engenharia de software**.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ewertontech.com.br-111111?style=for-the-badge)](https://www.ewertontech.com.br/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ewerton-hecsley-8a613992/)
+
+[![Email](https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ewerton.martinscomercial@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**Backend • Architecture • Business**
+
+</div>
